@@ -117,4 +117,3 @@ ulFilters.addEventListener('click', (event) =>{
 
 
 });
-
